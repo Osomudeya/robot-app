@@ -1,0 +1,7 @@
+.*.swp
+*-private.*
+vendor/
+Gopkg.lock
+node_modules
+.env
+*.md
